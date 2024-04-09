@@ -9985,3 +9985,38 @@ body .reply a,
 	padding-top: 0;
 	padding-bottom: 0;
 }
+
+.live-btn {
+    position: absolute;
+    top: 48% !important;
+    z-index: 1;
+}
+.live-button {
+    position: absolute;
+    top: 55% !important;
+    z-index: 1;
+}
+.podcast-btn {
+    position: absolute;
+    top: 54% !important;
+    z-index: 1;
+}
+.sky-btn {
+		position: absolute;
+    top: 56% !important;
+    z-index: 1;
+}
+.list-item li {
+    list-style: number;
+		padding: 10px;
+}
+.side-button {
+		position: absolute;
+    top: 52% !important;
+    z-index: 1;
+}
+.top-button {
+		position: absolute;
+    top: 5% !important;
+    z-index: 1;
+}
