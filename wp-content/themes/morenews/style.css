@@ -9987,22 +9987,22 @@ body .reply a,
 }
 
 .live-btn {
-    position: absolute;
-    top: 48% !important;
+    position: absolute !important;
+    top: 50% !important;
     z-index: 1;
 }
 .live-button {
-    position: absolute;
-    top: 55% !important;
+    position: absolute !important;
+    top: 60% !important;
     z-index: 1;
 }
 .podcast-btn {
-    position: absolute;
+    position: absolute !important;
     top: 54% !important;
     z-index: 1;
 }
 .sky-btn {
-		position: absolute;
+		position: absolute !important;
     top: 56% !important;
     z-index: 1;
 }
@@ -10011,12 +10011,16 @@ body .reply a,
 		padding: 10px;
 }
 .side-button {
-		position: absolute;
+		position: absolute !important;
     top: 52% !important;
     z-index: 1;
 }
 .top-button {
-		position: absolute;
+		position: absolute !important;
     top: 5% !important;
     z-index: 1;
+}
+.main-navigation .menu > ul > li > a, .main-navigation .menu > ul > ul > li > a {
+    padding: 13px;
+    text-transform: uppercase;
 }
