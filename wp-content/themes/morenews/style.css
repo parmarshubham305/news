@@ -10024,3 +10024,10 @@ body .reply a,
     padding: 13px;
     text-transform: uppercase;
 }
+.elementor-768 .elementor-element .about .elementor-image-box-title {
+    margin-bottom: 20px !important;
+}
+.elementor-768 section.elementor-element{
+    margin-top: 40px !important;
+    margin-bottom: 0px !important;
+}
